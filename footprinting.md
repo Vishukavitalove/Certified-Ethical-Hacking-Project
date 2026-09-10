@@ -5,7 +5,9 @@ Similarly, the security assessment of a system or network starts with the reconn
 You have been asked by senior managers to perform a proactive security assessment of the company. Before you can start any assessment, you should discuss and define the scope with management; the scope of the assessment identifies the systems, network, policies and procedures, human resources, and any other component of the system that requires security evaluation. You should also agree with management on rules of engagement (RoE)-the "do's and don'ts" of assessment. Once you have the necessary approvals to perform ethical hacking, you should start gathering information about the target organization. Once you methodologically begin the footprinting process, you will obtain a blueprint of the security profile of the target organization. The term "blueprint" refers to the unique system profile of the target organization as the result of footprinting.
 The labs in this module will give you a real-time experience in collecting a variety of information about the target organization from various open or publicly accessible sources.
 Objective
+```sh
 The objective of the lab is to extract information about the target organization that includes, but is not limited to:
+```
 •	Organization Information Employee details, addresses and contact details, partner details, weblinks, web technologies, patents, trademarks, etc.
 •	Network Information Domains, sub-domains, network blocks, network topologies, trusted routers, firewalls, IP addresses of the reachable systems, the Whois record, DNS records, and other related information
 •	System Information Operating systems, web server OSes, location of web servers, user accounts and passwords, etc.
